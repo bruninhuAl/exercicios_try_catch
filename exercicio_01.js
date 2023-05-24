@@ -26,7 +26,7 @@ class Animal {
   }
 }
 
-const meuAnimal = new Animal("", 3, "cachorro");
+const meuAnimal = new Animal("", 3, "");
 console.log(meuAnimal.mostrarAtributos())
 
 // Imprimindo os atributos
